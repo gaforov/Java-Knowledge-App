@@ -1,0 +1,80 @@
+[
+    {
+      "question": "What is the correct syntax for java main method?",
+      "choice1": "public void main(String[] args)",
+      "choice2": "public static void main(string args[])",
+      "choice3": "public static void MAIN(String args[])",
+      "choice4": "None of the above",
+      "answer": 4
+    },
+    {
+      "question": "What is the meaning of the return data type void?",
+      "choice1": "An empty memory space is returned so that the developers can utilize it.",
+      "choice2": "void is not supported in Java",
+      "choice3": "void returns no data type",
+      "choice4": "null",
+      "answer": 3
+    },
+    {
+      "question": "Java keywords are written in lowercase as well as uppercase",
+      "choice1": "True",
+      "choice2": "False",
+      "choice3": "Both",
+      "choice4": "Neither",
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is not a Java keyword?",
+      "choice1": "static",
+      "choice2": "try",
+      "choice3": "Integer",
+      "choice4": "new",
+      "answer": 3
+    },
+    {
+      "question": "Choose appropriate data type for this value: 10.5",
+      "choice1": "int",
+      "choice2": "boolean",
+      "choice3": "String",
+      "choice4": "double",
+      "answer": 4
+    },
+    {
+      "question": "Choose appropriate data type for this value: isJavaFun",
+      "choice1": "int",
+      "choice2": "boolean",
+      "choice3": "String",
+      "choice4": "double",
+      "answer": 2
+    },
+    {
+      "question": "What is a correct syntax to output \"Hello World\" in Java?",
+      "choice1": "echo(\"Hello World\")",
+      "choice2": "Console.log(\"Hello World\")",
+      "choice3": "print(\"Hello World\")",
+      "choice4": "System.out.println(\"Hello World\")",
+      "answer": 4
+    },
+    {
+      "question": "Java is short for \"JavaScript\".",
+      "choice1": "True",
+      "choice2": "False",
+      "answer": 2
+    },
+    {
+      "question": "How do you insert single line COMMENT in Java code?",
+      "choice1": "// This is a comment",
+      "choice2": "/* This is a comment",
+      "choice3": "/** This is a comment",
+      "choice4": "# This is a comment",
+      "answer": 1
+    },
+    {
+      "question": "Which method can be used to find the length of a string?",
+      "choice1": "getSize()",
+      "choice2": "getLength()",
+      "choice3": "len()",
+      "choice4": "length()",
+      "answer": 4
+    }
+  ]
